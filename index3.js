@@ -1,1 +1,2 @@
-console.log('index3')
+console.log('index3.js')
+console.log('Error')
